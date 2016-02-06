@@ -1,0 +1,3 @@
+These are the Matlab codes for Joint Covariate Detection using PCT toolbox.
+"S2_combination.xlsx" stores the form of miRNA expression data in GBM.
+"S3_Feature_selection_permutation.m" is the main script that calls the other functions, which keeps parameters such as the round of permutation to be changed at the front lines of the script. 
